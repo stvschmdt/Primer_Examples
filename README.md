@@ -11,3 +11,5 @@ Chapter 13 Student Class Examples
 Chapter 14 Worker Class Inheritance Examples
 
 Chapter 14 Template Examples
+
+Chapter 14 Friend Examples
