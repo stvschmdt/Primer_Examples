@@ -13,3 +13,5 @@ Chapter 14 Worker Class Inheritance Examples
 Chapter 14 Template Examples
 
 Chapter 14 Friend Examples
+
+Chapter 15 Try Catch Throw
