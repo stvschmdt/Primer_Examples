@@ -17,3 +17,5 @@ Chapter 14 Friend Examples
 Chapter 15 Try Catch Throw
 
 Chapter 16 Vector Class, Multimap, Sets (Algorithms, Maps Libs)
+
+Chapter 16 Algorithms (using valarray, transform, iterators, slice)
